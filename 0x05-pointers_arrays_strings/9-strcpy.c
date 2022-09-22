@@ -2,7 +2,7 @@
 
 /**
 * _strcpy_ function that copies the string
-* pointed by src,  include
+pointed by src,  include
 * terminate null byte (\0), to the buffer
 * pointed to by dest
 * @dest: the first parameter
